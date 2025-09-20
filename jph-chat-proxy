@@ -1,0 +1,4 @@
+/api/server.js       # code for Express API
+jph_context.txt      # copy the context you have
+package.json         # lists dependencies
+.env.example         # placeholder for your API key
